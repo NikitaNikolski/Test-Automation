@@ -1,0 +1,66 @@
+Test cases of the Microsoft Azure web application
+
+Testcase ID: 1
+Testcase header: Change application language & currency
+Steps description: Go to the microsoft azure homepage. Scroll down to the bottom of the page and see sections with changing currency and language options.
+Expected Result: Language successfully changed and curreny changed 
+accordingly to the language.
+
+Testcase ID: 2
+Testcase header: Show all products
+Steps description: Go to the microsoft azure homepage. Scroll down a bit and see "Popular products" section. Click on the "Show all (N) products".
+Expected Result: Section should increase the height and show all the products.															
+
+Testcase ID: 3
+Testcase header: Show details page of the product
+Steps description: Do all the steps described above, then click on one of the
+product.
+Expected Result: Browser should navigate to the detail page of the clicked
+product.
+																		
+Testcase ID: 4
+Testcase header: Going to the one of the social networks goups
+Steps description: Go to the microsoft azure homepage. Scroll down to the
+bottom of the page and see "Go Social" column. Click on the any link in it.
+Expected Result: You should be navigated to the clicked social group.
+
+Testcase ID: 5
+Testcase header: Get documentation
+Steps description: Go to the microsoft azure homepage. Click on the 
+documentation tab.
+Expected Result: The navigation to the page with the documentation was 
+successful.																
+
+Testcase ID: 6
+Testcase header: Navigating on documentation page
+Steps description: Go to the microsoft azure homepage. Click on the
+documentation tab. See the following tabs: Services, Developer, Architecture. Try to click on one of them.
+Expected Result: Navigating should occur and you should see the corresponding 
+content.
+
+Testcase ID: 7
+Testcase header: Filtering documentation
+Steps description: On the document page navigate to the service tab and
+see filtering section on the left side. Click on some of the
+ group.
+Expected Result: Filtering should work and expected result is showing content
+accordingly to the clicked filtering group item.
+
+Testcase ID: 8
+Testcase header: Filtering products
+Steps description: On the products page select on of the products category.
+Expected Result: Products should be filtered by selected category.
+
+Testcase ID: 9
+Testcase header: Pricing calculator
+Steps description: On the pricing page click on the pricing calculator. 
+Follow all the actions described in the grey block with
+hints. After added products, close the popup.
+Expected Result: Calculator should show estimate.											
+
+Testcase ID: 10
+Testcase header: Export estimate
+Steps description: After getting calculator estimate, click on the Export
+Estimate link on You estimate block.
+Expected Result: After clicking on the link, downloading of the document should be start.																	
+																					
